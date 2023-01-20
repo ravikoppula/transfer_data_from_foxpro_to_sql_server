@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transfer_data_from_foxpro_to_sql_server", "transfer_data_from_foxpro_to_sql_server.csproj", "{49FCB8FE-BA99-4E73-AA65-E98BC3198E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49FCB8FE-BA99-4E73-AA65-E98BC3198E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FCB8FE-BA99-4E73-AA65-E98BC3198E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FCB8FE-BA99-4E73-AA65-E98BC3198E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FCB8FE-BA99-4E73-AA65-E98BC3198E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3199301B-5817-4783-8E04-AEB51D024B8F}
+	EndGlobalSection
+EndGlobal
